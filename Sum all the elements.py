@@ -1,0 +1,5 @@
+a=(2,5,8,6,5)
+print(sum(a))
+new_a = sorted(a)
+print(a)
+print(new_a)

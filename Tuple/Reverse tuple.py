@@ -1,0 +1,5 @@
+newtpl = (1,8,9,4,5)
+x = newtpl.count(4)
+nwlist = list(newtpl)
+nwlist.reverse()
+print(nwlist)

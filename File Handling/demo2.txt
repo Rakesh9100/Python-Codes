@@ -1,0 +1,7 @@
+Dictionaries: Dictionary is a built-in Python Data Structure that is mutable.
+ It is similar in spirit to List, Set, and Tuples\.n However, it is not indexed by a sequence of numbers but indexed based on keys and can be understood as associative arrays.
+ On an abstract level, it consists of a key with an associated value.
+ In Python, the Dictionary represents the implementation of a hash-table.
+It improves the readability of your code.
+ Writing out Python dictionary keys along with values adds a layer of documentation to the code.
+ If the code is more streamlined, it is a lot easier to debug.

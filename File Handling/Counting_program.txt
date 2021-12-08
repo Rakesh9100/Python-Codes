@@ -1,0 +1,2 @@
+Just like we humans can understand a few languages (English, Spanish, Mandarin, French, etc.), so is the case with computers.
+Computers understand instructions that are written in a specific syntactical form called a programming language.
